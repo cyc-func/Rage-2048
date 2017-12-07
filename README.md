@@ -7,7 +7,7 @@ There might be ways to still win the game though. But they will be hopefully a b
 
 ---
 
-To load the game on windows or linux, type
+To load the game on windows, linux or osx, type
 
 ~~~~
 javac Main.java
