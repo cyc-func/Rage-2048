@@ -8,6 +8,8 @@ There might be ways to still win the game though. But they will be hopefully a b
 
 They game may feel same initially but (hopefully) gets more difficult
 
+An alternative strategy would be to spawn a tile over the largest tile which moved
+
 ---
 
 To load the game, nagivate to the correct directory and type
